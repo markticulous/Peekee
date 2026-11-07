@@ -27,13 +27,23 @@ The full **User Guide** opens from **Settings → User Guide** inside Peekee, or
 
 ## What it shows
 
-- **Pictures**, including HEIC and AVIF when Windows has the codec, and classic Amiga IFF pictures.
+- **Pictures**, including HEIC and AVIF when Windows has the codec, **Photoshop** files, and classic Amiga IFF pictures.
 - **Text and code**, **CSV** and **JSON**, **Markdown** and **SVG**, drawn by Peekee itself.
 - **Archives**: zip, 7-Zip, RAR, ISO, tar, CAB and LZH, as a list of what is inside.
-- **PDF** and **Office** files, through the previewers already on your PC.
+- **PDF**, **Illustrator** and **Office** files, and the text of **WordPerfect** documents.
 - **Fonts** and **folders**. Anything else gets a card with its details.
 
-It stays light: about 29 MB of memory while it waits in the tray.
+The full list is in the [User Guide](https://markticulous.com/support/guides/peekee/#types).
+
+## Small but mighty
+
+Peekee is built to stay out of the way of your PC:
+
+- **Tiny.** 3.4 MB installed, and a 3.5 MB portable download. No browser engine, no plugins, no copies of things Windows already has.
+- **Light at rest.** About 30 MB of memory while it waits in the tray. Nothing runs in the background apart from a once-a-day update check. Its key watcher does no work unless File Explorer, the Desktop or a file dialog is in front.
+- **Fast.** The preview window appears in a few milliseconds, and a 20-megapixel photo is ready in about a tenth of a second.
+- **Gone when you are done.** Each preview is unloaded the moment it closes, and memory is back to rest within five seconds.
+- **Uses what Windows has.** Windows' own image codecs and PDF engine, and the Office previewers already installed, which run in their own process so a damaged file cannot take Peekee down.
 
 ## Your privacy
 
