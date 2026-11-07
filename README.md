@@ -27,7 +27,7 @@ The full **User Guide** opens from **Settings → User Guide** inside Peekee, or
 
 ## What it shows
 
-- **Pictures**, including HEIC and AVIF when Windows has the codec, **Photoshop** files, and classic Amiga IFF pictures.
+- **Pictures**, including HEIC when Windows has the codec, JPEG XL and AVIF (with Windows' codec or the optional Extra picture formats download in Settings), **Photoshop** files, and classic Amiga IFF pictures.
 - **Text and code**, **CSV** and **JSON**, **Markdown** and **SVG**, drawn by Peekee itself.
 - **Archives**: zip, 7-Zip, RAR, ISO, tar, CAB and LZH, as a list of what is inside.
 - **PDF**, **Illustrator** and **Office** files, and the text of **WordPerfect** documents.
