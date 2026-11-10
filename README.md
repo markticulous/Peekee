@@ -35,7 +35,7 @@ The full **User Guide** opens from **Settings → User Guide** inside Peekee, or
 
 The full list is in the [User Guide](https://markticulous.com/support/guides/peekee/#types).
 
-## Small but mighty
+## Light on your PC
 
 Peekee is built to stay out of the way of your PC:
 
