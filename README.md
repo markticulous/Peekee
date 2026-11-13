@@ -4,7 +4,7 @@
 
 <p align="center"><img src="images/preview.png" alt="The Peekee preview window showing a photograph of the Earth, with the file name at the top and its type, size and date at the bottom" width="640"></p>
 
-> **Beta.** Peekee is new. If something does not preview the way you expect, please [open an issue](https://github.com/markticulous/Peekee/issues).
+> If something does not preview the way you expect, please [open an issue](https://github.com/markticulous/Peekee/issues).
 
 ## Download
 
@@ -39,9 +39,9 @@ The full list is in the [User Guide](https://markticulous.com/support/guides/pee
 
 Peekee is built to stay out of the way of your PC:
 
-- **Tiny.** 3.4 MB installed, and a 3.5 MB portable download. No browser engine, no plugins, no copies of things Windows already has.
-- **Light at rest.** About 30 MB of memory while it waits in the tray. Nothing runs in the background apart from a once-a-day update check. Its key watcher does no work unless File Explorer, the Desktop or a file dialog is in front.
-- **Fast.** The preview window appears in a few milliseconds, and a 20-megapixel photo is ready in about a tenth of a second.
+- **Tiny.** About 4.6 MB installed, and a portable download of about 4 MB. No browser engine, no plugins, no copies of things Windows already has.
+- **Light at rest.** About 20 MB of memory while it waits in the tray. Nothing runs in the background apart from a once-a-day update check. Its key watcher does no work unless File Explorer, the Desktop or a file dialog is in front.
+- **Fast.** A preview is on screen with its content in under a tenth of a second the first time, and in under 20 milliseconds after that. A 20-megapixel photo is ready in about a tenth of a second.
 - **Gone when you are done.** Each preview is unloaded the moment it closes, and memory is back to rest within five seconds.
 - **Uses what Windows has.** Windows' own image codecs and PDF engine, and the Office previewers already installed, which run in their own process so a damaged file cannot take Peekee down.
 
